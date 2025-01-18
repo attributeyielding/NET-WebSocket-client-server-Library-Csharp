@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive implementation of a WebSocket Client and Server in C#. The client supports secure communication using `TcpClient` and `SslStream`, handles WebSocket frames (text, binary, ping, pong, and close), and includes features like custom headers, subprotocols, compression, and keep-alive mechanisms.
 
+![image](https://github.com/user-attachments/assets/b9530e7a-6d95-4c18-8202-645709407999)
+
 ---
 # WebSocket Client
 
@@ -92,6 +94,10 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 
 <!-- Doc 2 is in language en-US. Optimizing Doc 2 for scanning, using lists and bold where appropriate, but keeping language en-US, and adding id attributes to every HTML element: --><h1 id="jmh1rkf">WebSocket Server in C#</h1>
 <p id="gzjspdzx">This is a comprehensive implementation of a <strong>WebSocket server</strong> in C# that supports <strong>secure communication</strong> using <code>TcpListener</code> and <code>SslStream</code>. The server handles various WebSocket frames, custom headers, subprotocols, and includes features like compression and keep-alive mechanisms.</p>
+
+![image](https://github.com/user-attachments/assets/f41c15fd-5746-4914-bc45-ec94bd62e34c)
+
+
 <hr id="z80m8fh">
 <h2 id="k41dhm">Features</h2>
 <ul id="k41dhm">
@@ -186,6 +192,9 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 <hr id="gwqq1uv">
 <h2 id="81miuuc"><strong id="gs1c8sf">Contributing</strong></h2>
 <p id="h8ph407"><strong>Contributions are welcome!</strong> Please open an issue or submit a pull request for any improvements or bug fixes.</p>
+
+
+
 
 
 
