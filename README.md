@@ -143,11 +143,9 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 <li id="lct45p"><strong>Use</strong> secure protocols (e.g., <code id="4bkeq8">Tls12</code> or <code id="u0mrlh">Tls13</code>) for encryption.</li>
 </ul>
 <hr id="jdcr7g">
-<h2 id="sarm8ta">Limitations</h2>
-<ol start="1" id="2ychu6n">
-<li id="tn53124"><strong id="0lb7db">Compression</strong>: The implementation includes a placeholder for WebSocket compression but does not implement it.</li>
-<li id="o7fbf4"><strong id="i8vypvc">Scalability</strong>: The server is designed for simplicity and may not scale well for high-concurrency scenarios.</li>
-<li id="je2v40n"><strong id="dj1h79">Error Handling</strong>: Basic error handling is included, but additional robustness may be required for production environments.</li>
+<h2 id="sarm8ta">testing WebSocket server</h2>
+       use POSTMAN to create a websocket request at localhost:8080 to connect to this server and test it OR use another websocket client (build client app first from this repos)
+
 </ol>
 <hr id="rkb95fi">
 <h2 id="fnj8u0h">Future Enhancements</h2>
