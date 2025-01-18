@@ -144,9 +144,8 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 </ul>
 <hr id="jdcr7g">
 <h2 id="sarm8ta">testing WebSocket server</h2>
-       use POSTMAN to create a websocket request at localhost:8080 to connect to this server and test it OR use another websocket client (build client app first from this repos)
+      <li id="w0xRRR"> use POSTMAN to create a websocket request at localhost:8080 to connect to this server and test it OR use another websocket client (build client app first from this repos)</li>
 
-</ol>
 <hr id="rkb95fi">
 <h2 id="fnj8u0h">Future Enhancements</h2>
 <ol start="1" id="dup9c3">
