@@ -183,10 +183,7 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 <li id="dqc0jd"><strong id="5ko12i">.NET Core/5+</strong>: The code uses <code id="tffssxr">Microsoft.Extensions.Logging</code> for logging and <code id="rx9f5of">System.Security.Cryptography</code> for hashing.</li>
 <li id="ujjq9xh"><strong id="u5yqgir">SSL/TLS</strong>: Requires a valid SSL/TLS certificate for secure connections (<code id="bgjet6r">wss://</code>).</li>
 </ul>
-<hr id="us8fwm">
-<h2 id="5b4jg1a"><strong id="buldwb">License</strong></h2>
-<p id="9x84324">This project is licensed under the <strong>MIT License</strong>. 
-<hr id="gwqq1uv">
+
 <h2 id="81miuuc"><strong id="gs1c8sf">Contributing</strong></h2>
 <p id="h8ph407"><strong>Contributions are welcome!</strong> Please open an issue or submit a pull request for any improvements or bug fixes.</p>
 
