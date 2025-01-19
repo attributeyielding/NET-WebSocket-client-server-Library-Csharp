@@ -185,7 +185,7 @@ This repository contains a comprehensive implementation of a WebSocket Client an
 </ul>
 <hr id="us8fwm">
 <h2 id="5b4jg1a"><strong id="buldwb">License</strong></h2>
-<p id="9x84324">This project is licensed under the <strong>MIT License</strong>. See the <a href="https://chat.deepseek.com/a/chat/s/LICENSE" target="_blank" rel="noreferrer" id="4yfgatk">LICENSE</a> file for details.</p>
+<p id="9x84324">This project is licensed under the <strong>MIT License</strong>. 
 <hr id="gwqq1uv">
 <h2 id="81miuuc"><strong id="gs1c8sf">Contributing</strong></h2>
 <p id="h8ph407"><strong>Contributions are welcome!</strong> Please open an issue or submit a pull request for any improvements or bug fixes.</p>
